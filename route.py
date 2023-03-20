@@ -1,0 +1,1 @@
+print('\tanh \t 1')
